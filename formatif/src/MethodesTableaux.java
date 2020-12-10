@@ -3,7 +3,7 @@
 * @Date : Nov. 26, 2020
 * @Description : Programme permettant d'utiliser des méthodes
 * pour afficher l'élément le plus grand / petit dans un tableau d'entiers 
-* ou leurs indices
+* ou leurs i
 */
 
 
